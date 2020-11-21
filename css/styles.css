@@ -1,0 +1,13 @@
+.container{
+    width: 960px;
+    margin: 0px auto;
+}
+.box{
+    width: 200px;
+    height: 200px; 
+    background-image:url(../img/Desktop-Wallpaper-828.jpg);
+    background-size: cover;
+    float: left;
+    margin: 10px;
+   
+}
